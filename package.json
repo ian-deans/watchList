@@ -1,0 +1,19 @@
+{
+  "name": "watchlist",
+  "version": "1.0.0",
+  "description": "maintain list of shows and where to watch them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ian-deans/watchList.git"
+  },
+  "author": "ideans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ian-deans/watchList/issues"
+  },
+  "homepage": "https://github.com/ian-deans/watchList#readme"
+}
